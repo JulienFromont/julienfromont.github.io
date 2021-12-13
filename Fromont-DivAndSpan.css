@@ -1,0 +1,48 @@
+BODY {
+    BACKGROUND-COLOR: #446bd6;
+    BACKGROUND-POSITION: 0% 0%;
+    COLOR: black;
+    MARGIN-LEFT: 10px
+}
+
+.motif1 {
+    BACKGROUND-COLOR: #e2d521;
+    FONT-SIZE: 100px
+}
+
+.motif2 {
+    BACKGROUND-COLOR: #7a26da;
+    FONT-SIZE: 100px
+}
+
+.motif3 {
+    BACKGROUND-COLOR: rgb(0, 81, 255);
+    FONT-SIZE: 100px
+}
+.pos1 {
+    position: absolute;
+    top: 600px;
+    left: 100px
+}
+
+.pos2 {
+    position: absolute;
+    top: 0px;
+    left: 140px
+}
+
+.pos3 {
+    position: absolute;
+    top: 480px;
+    left: 1000px
+}
+
+.trait {
+    position: absolute;
+    top: 20px;
+    left: 10px
+}
+
+.taillefont {
+    FONT-SIZE: 100px
+}

@@ -1,0 +1,26 @@
+/*Couleur de fond du body (donc de la partie visible de la page): bleu clair*/
+
+body {
+    background-color: rgb(0, 195, 255);
+}
+
+div {
+    background-color: yellowgreen;
+    color: orangered;
+}
+
+.conteneur {
+    width: 75%;
+}
+
+#cp {
+    margin: 0 auto;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.fondjaune {
+    background-color: blanchedalmond;
+}
