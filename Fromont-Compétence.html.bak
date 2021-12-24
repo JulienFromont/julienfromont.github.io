@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="Fromont-style.css" />
+    <title>Fromont Julien - Compétences</title>
+</head>
+
+<body>
+    <div id="bloc_page">
+        <header>
+            <div id="titre_principal">
+                <div id="logo">
+                    <a href="index.html"><img src="images/logo_J.jpg" alt="Logo A" /></a>
+                    <h1>ULIEN</h1>
+                </div>
+            </div>
+
+            <nav>
+                <ul>
+                    <li><a href="Fromont-Xp.html">Mes Expériences</a></li>
+                    <li><a href="Fromont-Compétence.html">Mes Compétences</a></li>
+                    <li><a href="Fromont-Centre-d'Interet.html">Mes Interets</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section>
+            <article>
+                <br>
+				<h1>Mes Compétences</h1><br>
+                <p>
+                    <p>Bases en programmation sous Java, Arduino, HTML, CSS, Bash, Oracle-SQL.</p>
+                    <p>Cablage de systèmes programmés</p>
+                    <p>Utiliser des logiciels bureautiques</p>
+                    <p>Niveau de langue scolaire en Anglais et Espagnol</p>
+                </p>
+            </article>
+         </section>
+    </div>
+</body>
+
+</html>

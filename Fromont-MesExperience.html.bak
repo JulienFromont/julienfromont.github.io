@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="Fromont-style.css" />
+    <title>Fromont Julien - Expérience</title>
+</head>
+
+<body>
+    <div id="bloc_page">
+        <header>
+            <div id="titre_principal">
+                <div id="logo">
+                    <a href="index.html"><img src="images/logo_J.jpg" alt="Logo A" /></a>
+                    <h1>ULIEN</h1>
+                </div>
+            </div>
+
+            <nav>
+               <ul>
+                    <li><a href="Fromont-Xp.html">Mes Expériences</a></li>
+                    <li><a href="Fromont-Compétence.html">Mes Compétences</a></li>
+                    <li><a href="Fromont-Centre-d'Interet.html">Mes Interets</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section>
+            <article>
+                <br>
+				<h1>Mes expériences</h1><br>
+                <p>
+                    En milieu scolaire :
+					<p>-En Terminale j'ai réaliser un projet de fin d'année en groupe, Nous n'avons pas pus le testé de façon physique, mais au point du code il étais fini,<br> nous devions faire en sorte qu'un projecteur suive un certains objets que nous aurions désignée à l'avance, grâce à un capteur de mouvement qui détecte une couleur spéciale que nus pouvions indiqué sur l'application crée pour celà</p>
+                    <p>-Durant ma première année en BUT Informatique, j'ai réalisé divers projet professionel en groupe sous la forme des SAE, nous intégrant au monde professionel.</p>
+                </p>
+                <p>
+                    En milieu professionel : <p>-Durant mon été 2021 j'ai travailler au sein du CHU de Toulouse, plus précisément au CHU de Purpan dans le service Logistique.</p>
+                </p>
+                <br><center><h1>Vous pouvez télécharger mon CV ci-dessous</h1>
+                <a href="CV_Julien_Fromont.pdf" download style="color:#0000FF;">Mon CV</a></center>
+            </article>
+        </section>
+    </div>
+</body>
+
+</html>
